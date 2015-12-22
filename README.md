@@ -30,4 +30,24 @@ Simple calculator with four basic operations based on Arduino Uno.
 <img src="http://oi68.tinypic.com/nyxnad.jpg" width="210" height="150" />
 <img src="http://oi64.tinypic.com/b3kf0w.jpg" width="210" height="150" />
 
+<h2>How it works?</h2>
+
+In the beginning we see „Arduino Calculator”. To start typing the first number, press „OK”.<br/>
+After typing the number, choose one of the four basic operations mentioned below:
+<ul>
+<li>` + ` - addition</li>
+<li>` - ` - subtraction</li>
+<li>` * ` - multiplication</li>
+<li>` / ` - division</li>
+</ul>
+
+After typing the second number, press „OK” to show the result.<br/>
+If you want to reset the calculator, press "OK" again. <br/><br/>
+
+
+In order for ArdCalc to work correctly, I had to add some limitations:
+
+1. If one of the numbers entered is greater than 999999, you will see "error” on the display.<br/>
+2. If you try to divide by zero, you will see „inf” ( „infinity” ) on the display.
+
 
