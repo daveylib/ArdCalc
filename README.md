@@ -23,14 +23,12 @@ Simple calculator with four basic operations based on Arduino Uno.
 
 <img src="http://oi64.tinypic.com/2h4du9y.jpg" />
 
-<h2>Demonstration</h2>
+<h2>How it works?</h2>
 
 <img src="http://oi66.tinypic.com/20ktb84.jpg" width="210" height="150" />
 <img src="http://oi67.tinypic.com/2ilm2c5.jpg" width="210" height="150" />
 <img src="http://oi68.tinypic.com/nyxnad.jpg" width="210" height="150" />
 <img src="http://oi64.tinypic.com/b3kf0w.jpg" width="210" height="150" />
-
-<h2>How it works?</h2>
 
 In the beginning we see „Arduino Calculator”. To start typing the first number, press „OK”.<br/>
 After typing the number, choose one of the four basic operations mentioned below:
