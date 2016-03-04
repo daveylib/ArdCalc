@@ -2,7 +2,7 @@
 
 Simple calculator with four basic operations based on Arduino Uno.
 
-<img src="http://oi67.tinypic.com/4sinme.jpg" />
+<img src="./Images/ardcalc0.jpg" />
 
 <h2>What you need to make it?</h2>
 
@@ -21,14 +21,14 @@ Simple calculator with four basic operations based on Arduino Uno.
 
 <h2>Wiring</h2>
 
-<img src="http://oi64.tinypic.com/2h4du9y.jpg" />
+<img src="./Images/fritzing.png" />
 
 <h2>How it works?</h2>
 
-<img src="http://oi66.tinypic.com/20ktb84.jpg" width="210" height="150" />
-<img src="http://oi67.tinypic.com/2ilm2c5.jpg" width="210" height="150" />
-<img src="http://oi68.tinypic.com/nyxnad.jpg" width="210" height="150" />
-<img src="http://oi64.tinypic.com/b3kf0w.jpg" width="210" height="150" />
+<img src="./Images/ardcalc1.jpg" width="210" height="150" />
+<img src="./Images/ardcalc2.jpg" width="210" height="150" />
+<img src="./Images/ardcalc3.jpg" width="210" height="150" />
+<img src="./Images/ardcalc4.jpg" width="210" height="150" />
 
 In the beginning we see „Arduino Calculator”. To start typing the first number, press „OK”.<br/>
 After typing the number, choose one of the four basic operations mentioned below:
@@ -47,5 +47,3 @@ In order for ArdCalc to work correctly, I had to add some limitations:
 
 1. If one of the numbers entered is greater than 999999, you will see "error” on the display.<br/>
 2. If you try to divide by zero, you will see „inf” ( „infinity” ) on the display.
-
-
