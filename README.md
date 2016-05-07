@@ -7,7 +7,7 @@ Simple calculator with four basic operations based on Arduino Uno.
 <h2>What you need to make it?</h2>
 
 <ul>
-  <li>Arduino board</li><br/>
+  <li>Arduino board (ATmega328)</li><br/>
   
   <li>LCD Screen (compatible with Hitachi HD44780 driver)</li>
   <li>10k ohm potentiometer</li>
@@ -15,8 +15,8 @@ Simple calculator with four basic operations based on Arduino Uno.
 
   <li>PCF8574 expander</li><br/>
   
-  <li>15 pushbuttons</li>
-  <li>7 10K ohm resistors</li>
+  <li>15x pushbuttons</li>
+  <li>7x 10K ohm resistors</li>
 </ul>
 
 <h2>Wiring</h2>
